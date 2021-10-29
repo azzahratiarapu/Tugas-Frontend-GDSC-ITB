@@ -8,7 +8,7 @@ Website yang saya buat ini menampilkan urutan 10 film komedi terbaik yang ada di
 Untuk membuka website, kunjungi melalui :
 
 Berikut tampilan halaman utama website saya:
-![ss1](ss/ss_mainpage1.png)
+![ss1](Tugas Frontend_Tiara Putrikania Azzahra_339/ss/ss_mainpage1.png)
 ![ss2](ss/ss_mainpage2.png)
 ![ss3](ss/ss_mainpage3.png)
 
